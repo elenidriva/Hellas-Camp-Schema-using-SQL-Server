@@ -7,4 +7,5 @@ The whole objective of the Project is included in the .pdf file. To sum up the k
 	Lexikon with the terms used included.
 	Bullk loading of data into the MainTable.
 	SQL Script to automatically put the data into all the tables of the DataBase.
-	Commands for queries and creation and use of indexes 
+	Commands for queries 
+	Creation and use of indexes 
